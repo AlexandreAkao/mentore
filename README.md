@@ -56,6 +56,19 @@ $ yarn dev
 # running on port 3333
 ```
 
+## Environment variables
+
+```bash
+# API's Port
+PORT
+
+# Json web token key
+JWT_AUTH_KEY
+
+# Mongo's url to connect to database
+MONGO_URL
+```
+
 ### Install Front-end
 
 ```bash
@@ -76,6 +89,12 @@ or
 $ yarn start
 
 # running on port 3000
+```
+## Environment variables
+
+```bash
+# API's url to connect to backend
+REACT_APP_API_URL
 ```
 
 ## :memo: License
