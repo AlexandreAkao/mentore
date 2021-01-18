@@ -56,7 +56,7 @@ $ yarn dev
 # running on port 3333
 ```
 
-## Environment variables
+#### Environment variables
 
 ```bash
 # API's Port
@@ -90,7 +90,7 @@ $ yarn start
 
 # running on port 3000
 ```
-## Environment variables
+#### Environment variables
 
 ```bash
 # API's url to connect to backend
