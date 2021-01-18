@@ -15,6 +15,7 @@
 </p>
 
 ## 💻 Project
+Mentore is a platform that connects entrepreneurs and mentors from all over Brazil. Through our artificial intelligence you receive the contents that are missing for your company to leave the paper.
 
 Some project screens by clicking on the link: [Project screens](https://github.com/AlexandreAkao/mentore/blob/main/.gitignore)
 
@@ -86,8 +87,9 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Alex
 [reactjs]: https://reactjs.org
 [yarn]: https://yarnpkg.com/
 
-## Team
+## :muscle: Team
 
-| [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115>](https://github.com/filipedeschamps) | [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115>](https://github.com/filipedeschamps) | [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115>](https://github.com/filipedeschamps) | [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115>](https://github.com/filipedeschamps) | [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115>](https://github.com/filipedeschamps) |
-| Programmer | Programmer | Programmer | Programmer | Programmer |
-| :---: | :---: | :---: | :---: | :---: |
+| Business        	| Business     	| Programmer      	| Design           	| Marketing       	|
+|-----------------	|--------------	|-----------------	|------------------	|-----------------	|
+|[<img src="https://user-images.githubusercontent.com/40917812/104866502-7d893600-591d-11eb-9459-679d77802ccb.jpg" width=115>](https://www.linkedin.com/in/danilo-siqueira-392b0017b/)|[<img src="https://user-images.githubusercontent.com/40917812/104866570-a6a9c680-591d-11eb-8333-573f8a7aa588.jpg" width=115>](https://www.linkedin.com/in/gabriel-maia-983744145/)|[<img src="https://user-images.githubusercontent.com/40917812/104866384-3c912180-591d-11eb-9b0b-d07fb8e3a3f8.jpeg" width=115>](https://www.linkedin.com/in/alexandre-akao-aa6270163/)|[<img src="https://user-images.githubusercontent.com/40917812/104866657-db1d8280-591d-11eb-8a1b-5a4e7b4b98f7.jpg" width=115>](https://www.linkedin.com/in/arthur-benevides-53013416a/)|[<img src="https://user-images.githubusercontent.com/40917812/104866820-410a0a00-591e-11eb-8906-296e5717f216.png" width=115>](https://www.linkedin.com/in/hicarosindeaux/)|
+| Danilo Siqueira 	| Gabriel Maia 	| Alexandre Akira 	| Arthur Benevides 	| Hícaro Sindeaux 	|
