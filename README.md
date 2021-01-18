@@ -83,7 +83,11 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Alex
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
-[expo]: https://expo.io/
 [reactjs]: https://reactjs.org
-[rn]: https://facebook.github.io/react-native/
 [yarn]: https://yarnpkg.com/
+
+## Team
+
+| [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115>](https://github.com/filipedeschamps) | [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115>](https://github.com/filipedeschamps) | [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115>](https://github.com/filipedeschamps) | [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115>](https://github.com/filipedeschamps) | [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115>](https://github.com/filipedeschamps) |
+| Programmer | Programmer | Programmer | Programmer | Programmer |
+| :---: | :---: | :---: | :---: | :---: |
