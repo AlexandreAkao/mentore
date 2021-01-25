@@ -17,7 +17,7 @@
 ## 💻 Project
 Mentore is a platform that connects entrepreneurs and mentors from all over Brazil. Through our artificial intelligence you receive the contents that are missing for your company to leave the paper.
 
-Some project screens by clicking on the link: [Project screens](https://github.com/AlexandreAkao/mentore/blob/main/.gitignore)
+Some project screens by clicking on the link: [Project screens](https://github.com/AlexandreAkao/mentore/blob/main/SCREENS.md)
 
 
 ## :rocket: Technologies
